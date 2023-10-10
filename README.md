@@ -6,6 +6,7 @@
 - 🦊 Working at [Sasuke Financial Lab, inc.][corp-url] since 2022/02
 - 🍣 More info: [LAPRAS][lapras-url]
 
+<!--
 <p align="left">
   <a href="https://github.com/nekonado/nekonado/">
     <img src="https://komarev.com/ghpvc/?username=nekonado" alt="nekonado"/>
@@ -20,6 +21,7 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/nekonado/contributions.svg"/>
   </a>
 </p>
+-->
 
 <hr>
 
