@@ -2,7 +2,7 @@
 
 - 🗼 Web Developer living in Tokyo, Japan
 - 🎂 Born in 1994/12
-- 🎓 Graduated from [Gifu University - Grad School of Natural Science and Technology][univ-url] in 2020/03
+- 🎓 Graduated from [Gifu University Graduate School of Natural Science and Technology][univ-url] in 2020/03
 - 🦊 Working at [Sasuke Financial Lab, inc.][corp-url] since 2022/02
 - 🍣 More info: [LAPRAS][lapras-url]
 
@@ -26,7 +26,7 @@
 <hr>
 
 <details>
-<summary>🎨 Recent Activities</summary>
+<summary>🎨 GitHub Activities</summary>
 
 <br>
 
@@ -48,10 +48,10 @@
 
 <br>
 
-| Name                                                    | Acquisition date |
+| Certification Name                                      | Date Achieved    |
 | ------------------------------------------------------- | ---------------- |
-| Fundamental Information Technology Engineer Examination | 2021             |
-| HTML5 Professional Certification Level.2 Exam (ver2.5)  | 2023             |
+| Fundamental Information Technology Engineer Examination | April 2021       |
+| HTML5 Professional Certification Level.2 Exam (ver2.5)  | June 2023        |
 
 </details>
 
