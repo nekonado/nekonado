@@ -1,10 +1,11 @@
 name: LAPRAS Card
 
 on:
+  # Schedule updates (Runs at 09:00 JST every day)
+  schedule: [{ cron: "0 0 * * *" }]
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
-
+  push: { branches: ["master", "main"] }
 jobs:
   update-card:
     name: LAPRAS Card
