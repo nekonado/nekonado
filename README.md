@@ -6,7 +6,7 @@
 
 💻 Enthusiastic about Web Development and Computer Science.
 
-👉🏻 <a href="https://twitter.com/nekonado" target="_blank" rel="noopener noreferrer"><img alt="X account of nekonado" src="https://img.shields.io/twitter/follow/nekonado?style=social"></a>
+👉🏻 <a href="https://twitter.com/nekonadocat" target="_blank" rel="noopener noreferrer"><img alt="X account of nekonado" src="https://img.shields.io/twitter/follow/nekonadocat?style=social"></a>
 
 <div id="activities">
 <img src="https://raw.githubusercontent.com/nekonado/nekonado/main/github-metrics.svg" width="55%" align="left">
