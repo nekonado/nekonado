@@ -6,6 +6,11 @@
 - 🦊 Working at [Sasuke Financial Lab, inc.][corp-url] since 2022/02
 - 🍣 More info: [LAPRAS][lapras-url]
 
+## LAPRAS
+
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 <!--
 <p align="left">
   <a href="https://github.com/nekonado/nekonado/">
@@ -48,10 +53,10 @@
 
 <br>
 
-| Certification Name                                      | Date Achieved    |
-| ------------------------------------------------------- | ---------------- |
-| Fundamental Information Technology Engineer Examination | April 2021       |
-| HTML5 Professional Certification Level.2 Exam (ver2.5)  | June 2023        |
+| Certification Name                                      | Date Achieved |
+| ------------------------------------------------------- | ------------- |
+| Fundamental Information Technology Engineer Examination | April 2021    |
+| HTML5 Professional Certification Level.2 Exam (ver2.5)  | June 2023     |
 
 </details>
 
