@@ -1,10 +1,8 @@
-# Keisuke Ozeki (nekonado)
+# nekonado (Keisuke Ozeki)
 
-👋🏻 Hey there, I'm nekonado! 🐾
+👋🏻 Hey there, I'm nekonado 🐾
 
-🚀 Software Engineer at [Sasuke Financial Lab, inc.][corp-url] in Tokyo 🗼
-
-💻 Enthusiastic about Web Development and Computer Science.
+🥷🏻 I'm a Software Engineer & Scrum Master at [Sasuke Financial Lab, inc.][corp-url] in Tokyo, Japan, and passionate about product development and web technology.
 
 👉🏻 <a href="https://twitter.com/nekonadocat" target="_blank" rel="noopener noreferrer"><img alt="X account of nekonado" src="https://img.shields.io/twitter/follow/nekonadocat?style=social"></a>
 
@@ -18,4 +16,3 @@
 <!-- URL variables -->
 
 [corp-url]: https://sasukefinlab.com/
-[about-my-hn-url]: https://ja.glosbe.com/eo/ja/nekonado/
