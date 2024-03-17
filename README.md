@@ -3,10 +3,10 @@
 ```javascript
 /**
  * @name        nekonado
- * @description Software Engineer (Web Front-End Oriented) & Scrum Master
+ * @description Software Engineer & Scrum Master
  * @location    Tokyo, Japan
  * @company     Sasuke Financial Lab, inc.
- * @interests   Product Development, Web Technology, Agile
+ * @interests   Web Technology, Product Development, Type System
  * @hobbies     watching movies, having single origin coffee
  */
 ```
