@@ -3,7 +3,7 @@
 ```javascript
 /**
  * @name        nekonado
- * @description Software Engineer & Scrum Master
+ * @description Software Engineer & Scrum Master (CSM)
  * @location    Tokyo, Japan
  * @company     Sasuke Financial Lab, inc.
  * @interests   Web Technology, Product Development, Type System
