@@ -2,12 +2,13 @@
 
 ```javascript
 /**
- * @name        nekonado
- * @description Software Engineer & Scrum Master (CSM)
- * @location    Tokyo, Japan
- * @company     Sasuke Financial Lab, inc.
- * @interests   Web Technology, Product Development, Type System
- * @hobbies     watching movies, having single origin coffee
+ * @name           nekonado
+ * @description    Software Engineer, Scrum Master
+ * @location       Tokyo, Japan
+ * @company        Sasuke Financial Lab, inc.
+ * @interests      Web Technology, Product Development, Type System
+ * @certifications Fundamental Information Technology Engineer, Certified ScrumMaster
+ * @hobbies        watching movies, having single origin coffee
  */
 ```
 
