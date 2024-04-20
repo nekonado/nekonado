@@ -2,7 +2,7 @@
 
 ```javascript
 /**
- * @name           nekonado
+ * @name           Keisuke Ozeki | nekonado
  * @job            Software Engineer & Scrum Master @ Sasuke Financial Lab, inc.
  * @location       Tokyo, Japan
  * @interests      Web Technology, Type System, Agile Development
@@ -11,7 +11,7 @@
  */
 ```
 
-👉🏻 <a href="https://twitter.com/nekonadocat" target="_blank" rel="noopener noreferrer"><img alt="X account of nekonado" src="https://img.shields.io/twitter/follow/nekonadocat?style=social"></a>
+👉🏻 <a href="https://www.linkedin.com/in/keisuke-ozeki-073a44307/" target="_blank" rel="noopener noreferrer"><img alt="Linkedin badge" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a> <a href="https://twitter.com/nekonadocat" target="_blank" rel="noopener noreferrer"><img alt="X badge" src="https://img.shields.io/twitter/follow/nekonadocat?style=social"></a>
 
 <div id="activities">
 <img src="https://raw.githubusercontent.com/nekonado/nekonado/main/github-metrics.svg" width="55%" align="left">
