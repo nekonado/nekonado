@@ -5,8 +5,8 @@
  * @name           Keisuke Ozeki | nekonado
  * @job            Software Engineer & Scrum Master
  * @location       Tokyo, Japan
- * @interest      Web Technology, Type System, Agile Development
- * @certification Fundamental Information Technology Engineer, Certified ScrumMaster
+ * @interest       Web Technology, Type System, Agile Development
+ * @certification  Fundamental Information Technology Engineer, Certified ScrumMaster®
  */
 ```
 
