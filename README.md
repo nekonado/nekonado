@@ -3,10 +3,9 @@
 ```javascript
 /**
  * @name           nekonado
- * @description    Software Engineer, Scrum Master
+ * @job            Software Engineer & Scrum Master @ Sasuke Financial Lab, inc.
  * @location       Tokyo, Japan
- * @company        Sasuke Financial Lab, inc.
- * @interests      Web Technology, Product Development, Type System
+ * @interests      Web Technology, Type System, Agile Development
  * @certifications Fundamental Information Technology Engineer, Certified ScrumMaster
  * @hobbies        watching movies, having single origin coffee
  */
