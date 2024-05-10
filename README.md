@@ -3,11 +3,10 @@
 ```javascript
 /**
  * @name           Keisuke Ozeki | nekonado
- * @job            Software Engineer & Scrum Master @ Sasuke Financial Lab, inc.
+ * @job            Software Engineer & Scrum Master
  * @location       Tokyo, Japan
- * @interests      Web Technology, Type System, Agile Development
- * @certifications Fundamental Information Technology Engineer, Certified ScrumMaster
- * @hobbies        watching movies, having single origin coffee
+ * @interest      Web Technology, Type System, Agile Development
+ * @certification Fundamental Information Technology Engineer, Certified ScrumMaster
  */
 ```
 
