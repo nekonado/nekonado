@@ -1,8 +1,8 @@
-# 🥷🏻 About me
+## 🥷🏻 About me
 
 ```javascript
 /**
- * @name           Keisuke Ozeki | nekonado
+ * @name           Keisuke Ozeki (nekonado)
  * @job            Software Engineer & Scrum Master
  * @location       Tokyo, Japan
  * @interest       Web Technology, Type System, Agile Development
