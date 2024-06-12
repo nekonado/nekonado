@@ -1,13 +1,10 @@
-## 🥷🏻 About me
+<h2>🥷🏻 About me</h2>
 
 ```javascript
-/**
- * @name           Keisuke Ozeki (nekonado)
- * @job            Software Engineer & Scrum Master
- * @location       Tokyo, Japan
- * @interest       Web Technology, Type System, Agile Development
- * @certification  Fundamental Information Technology Engineer, Certified ScrumMaster®
- */
+let nekonado = {
+  interests: ['Web Technology', 'Type System', 'Agile Development'],
+  career: ['Software Engineer', 'Scrum Master'],
+}
 ```
 
 👉🏻 <a href="https://twitter.com/nekonadocat" target="_blank" rel="noopener noreferrer"><img alt="X badge" src="https://img.shields.io/twitter/follow/nekonadocat?style=social"></a> <a href="https://www.linkedin.com/in/keisuke-ozeki-073a44307/" target="_blank" rel="noopener noreferrer"><img alt="Linkedin badge" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
