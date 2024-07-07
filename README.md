@@ -1,10 +1,11 @@
 <h2>🥷🏻 About me</h2>
 
 ```javascript
-let nekonado = {
-  interests: ['Web Technology', 'Type System', 'Agile Development'],
-  career: ['Software Engineer', 'Scrum Master'],
-}
+const nekonado = {
+  interests: ["Web Technology", "Type System", "Agile Development"],
+  career: ["Software Engineer", "Scrum Master"],
+  funFact: "Try translating from Esperanto!",
+};
 ```
 
 👉🏻 <a href="https://twitter.com/nekonadocat" target="_blank" rel="noopener noreferrer"><img alt="X badge" src="https://img.shields.io/twitter/follow/nekonadocat?style=social"></a> <a href="https://www.linkedin.com/in/keisuke-ozeki-073a44307/" target="_blank" rel="noopener noreferrer"><img alt="Linkedin badge" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
