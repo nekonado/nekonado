@@ -4,7 +4,7 @@
 const nekonado = {
   interests: ["Web Technology", "Type System", "Agile Development"],
   career: ["Software Engineer", "Scrum Master"],
-  funFact: "Try translating from Esperanto!",
+  funFact: "My name is from Esperanto. Try Google it!",
 };
 ```
 
