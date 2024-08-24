@@ -2,8 +2,10 @@
 
 ```javascript
 const nekonado = {
+  name: "Keisuke Ozeki",
+  location: "Tokyo, Japan",
+  job: ["Web Developer (frontend)", "Scrum Master"],
   interests: ["Web Technology", "Type System", "Agile Development"],
-  career: ["Software Engineer", "Scrum Master"],
   funFact: "My name is from Esperanto. Try Google it!",
 };
 ```
