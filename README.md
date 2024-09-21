@@ -4,7 +4,7 @@
 const nekonado = {
   name: "Keisuke Ozeki",
   location: "Tokyo, Japan",
-  job: ["Software Developer (web frontend)", "Scrum Master"],
+  job: ["SWE (Web Frontend-Oriented)", "Scrum Master"],
   interests: ["Web Browser", "Type System"],
   funFact: "My name is from Esperanto. Try Google it!",
 };
